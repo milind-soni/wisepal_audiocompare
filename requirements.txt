@@ -1,0 +1,4 @@
+pydub==0.25.1
+speechbrain==0.5.9
+Flask
+ipython==7.25.0
